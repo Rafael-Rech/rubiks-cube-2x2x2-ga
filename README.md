@@ -78,5 +78,5 @@ This project was created as part of the **Natural Computing** subject, aiming to
 
 This project was done in collaboration with:
 
-- @devLIPEr
-- @mprocz
+- [@devLIPEr](https://github.com/devLIPEr)
+- [@mprocz](https://github.com/mprocz)
